@@ -1,0 +1,29 @@
+/* Write custom CSS for .notion-topbar below */
+/**/
+
+/* Styles drag area as a custom titlebar */
+/**/
+/* Sets .notion-topbar as a drag area for electron */
+/* Disables text selection for .notion-topbar */
+.notion-topbar { -webkit-user-select: none; -webkit-app-region: drag; }
+/* Makes .notion-topbar buttons clickable */
+.notion-collection_view_page-block { -webkit-app-region: no-drag; }
+.notion-open-sidebar { -webkit-app-region: no-drag; }
+.notion-page-block { -webkit-app-region: no-drag; }
+.notion-selectable { -webkit-app-region: no-drag; }
+.notion-topbar-share-menu { -webkit-app-region: no-drag; }
+.notion-topbar-more-button { -webkit-app-region: no-drag; }
+.notion-topbar-share-menu + div,
+.notion-topbar-share-menu + div + div { -webkit-app-region: no-drag; }
+
+/* Write custom CSS below */
+/**/
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+::-ms-overflow-style: none;  /* IE and Edge */
+::-scrollbar-width: none;  /* Firefox */

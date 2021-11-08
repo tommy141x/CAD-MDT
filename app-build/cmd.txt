@@ -1,0 +1,3 @@
+//Nativefier CMD App Code Below
+
+nativefier --disable-context-menu --disable-dev-tools --width 1200 --height 720 --min-width 1100 --min-height 600 --inject ./inject.css --name CAD https://vertexmods.com/engine/cad --internal-urls "(.*?)(steamcommunity\.com/openid/login|vertexmods\.com/engine/cad/)(.*?)(.*?)(vertexmods\.com/engine/cad|vertexmods\.com/engine/cad/)(.*?)" --icon ./logo.ico
