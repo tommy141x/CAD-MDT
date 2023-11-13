@@ -9,6 +9,12 @@ All documentation can be found here on my website: https://www.tommy-johnston.co
 
 LOL
 
+![](https://gitlab.com/tommy141x/CAD-MDT/-/raw/main/teaser-vid.mp4)
+
+LOL2
+
+![](teaser-vid.mp4)
+
 <figure class="video_container">
   <iframe src="https://gitlab.com/tommy141x/CAD-MDT/-/raw/main/teaser-vid.mp4" frameborder="0" allowfullscreen="true"> 
 </iframe>
