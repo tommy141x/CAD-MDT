@@ -1,5 +1,5 @@
 # Tommy's CAD/MDT System
-![Mockup 1](mockup1.png)
+![](mockup1.png)
 
 ## Overview
 
@@ -18,14 +18,14 @@
 - **In-game Integration:** Utilize [MDT Integration](https://gitlab.com/tommy141x/mdt-integration) for enhanced in-game features.
 
 ## Screenshots and Videos
-![Mockup 2](mockup2.png)
-![Mockup 3](mockup3.png)
+![](mockup2.png)
+![](mockup3.png)
 
 ### Teaser Video
-[![Teaser Video](teaser-vid.mp4)](teaser-vid.mp4)
+![](teaser-vid.mp4)
 
 ### Trailer Video
-[![Trailer Video](trailer-vid.mp4)](trailer-vid.mp4)
+![](trailer-vid.mp4)
 
 ## Installation
 
