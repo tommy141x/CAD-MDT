@@ -15,21 +15,21 @@
 - **Dispatch Mode:** Enables a specialized dispatching mode for enhanced control.
 - **Live Map:** Real-time mapping integration for better situational awareness.
 - **Steam Integration:** Seamlessly integrate with Steam for user authentication.
-- **In-game Integration:** Utilize [MDT Integration](https://gitlab.com/tommy141x/mdt-integration) for enhanced in-game features.
+- **In-game Integration:** Utilize [MDT Integration](https://git.tommy-johnston.com/tommy/mdt-integration) for enhanced in-game features.
 
 ## Screenshots and Videos
 ![](mockup2.png)
 ![](mockup3.png)
 
 ### Teaser Video
-![](teaser-vid.mp4)
+![](https://git.tommy-johnston.com/tommy/CAD-MDT/media/branch/main/teaser-vid.mp4)
 
 ### Trailer Video
 ![](trailer-vid.mp4)
 
 ## Installation
 
-1. Clone the repository: `git clone git@gitlab.com:tommy141x/CAD-MDT.git`
+1. Clone the repository: `git clone https://git.tommy-johnston.com/tommy/CAD-MDT.git`
 2. Import the `release.sql` file into your database and configure the `config.php` file.
 3. Host all of the files on an nginx or apache server.
 
