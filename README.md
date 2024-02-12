@@ -22,10 +22,14 @@
 ![](mockup3.png)
 
 ### Teaser Video
-![](https://git.tommy-johnston.com/tommy/CAD-MDT/media/branch/main/teaser-vid.mp4)
+<video width="1280" height="720" controls>
+  <source src="https://git.tommy-johnston.com/tommy/CAD-MDT/media/branch/main/teaser-vid.mp4" type="video/mp4">
+</video>
 
 ### Trailer Video
-![](trailer-vid.mp4)
+<video width="1280" height="720" controls>
+  <source src="https://git.tommy-johnston.com/tommy/CAD-MDT/media/branch/main/trailer-vid.mp4" type="video/mp4">
+</video>
 
 ## Installation
 
