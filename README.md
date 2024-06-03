@@ -22,16 +22,16 @@
 ![](mockup3.png)
 
 ### Teaser Video
-<video src="https://git.tommy-johnston.com/tommy/CAD-MDT/media/branch/main/teaser-vid.mp4" controls>
+<video src="https://github.com/tommy141x/CAD-MDT/raw/main/teaser-vid.mp4" controls>
 </video>
 
 ### Trailer Video
-<video src="https://git.tommy-johnston.com/tommy/CAD-MDT/media/branch/main/trailer-vid.mp4" controls>
+<video src="https://github.com/tommy141x/CAD-MDT/raw/main/trailer-vid.mp4" controls>
 </video>
 
 ## Installation
 
-1. Clone the repository: `git clone https://git.tommy-johnston.com/tommy/CAD-MDT.git`
+1. Clone the repository: `git clone https://github.com/tommy141x/CAD-MDT.git`
 2. Import the `release.sql` file into your database and configure the `config.php` file.
 3. Host all of the files on an nginx or apache server.
 
