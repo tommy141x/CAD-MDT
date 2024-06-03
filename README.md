@@ -22,16 +22,10 @@
 ![](mockup3.png)
 
 ### Teaser Video
-<video src="https://github.com/tommy141x/CAD-MDT/raw/main/teaser-vid.mp4" controls>
-</video>
-
 ![](teaser-vid.mp4)
-![](https://github.com/tommy141x/CAD-MDT/raw/main/teaser-vid.mp4)
-
 
 ### Trailer Video
-<video src="https://github.com/tommy141x/CAD-MDT/raw/main/trailer-vid.mp4" controls>
-</video>
+![](trailer-vid.mp4)
 
 ## Installation
 
