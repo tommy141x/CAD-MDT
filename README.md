@@ -15,7 +15,7 @@
 - **Dispatch Mode:** Enables a specialized dispatching mode for enhanced control.
 - **Live Map:** Real-time mapping integration for better situational awareness.
 - **Steam Integration:** Seamlessly integrate with Steam for user authentication.
-- **In-game Integration:** Utilize [MDT Integration](https://git.tommy-johnston.com/tommy/mdt-integration) for enhanced in-game features.
+- **In-game Integration:** Utilize [MDT Integration](https://github.com/tommy141x/mdt-integration) for enhanced in-game features.
 
 ## Screenshots and Videos
 ![](mockup2.png)
@@ -24,6 +24,10 @@
 ### Teaser Video
 <video src="https://github.com/tommy141x/CAD-MDT/raw/main/teaser-vid.mp4" controls>
 </video>
+
+![](teaser-vid.mp4)
+![](https://github.com/tommy141x/CAD-MDT/raw/main/teaser-vid.mp4)
+
 
 ### Trailer Video
 <video src="https://github.com/tommy141x/CAD-MDT/raw/main/trailer-vid.mp4" controls>
